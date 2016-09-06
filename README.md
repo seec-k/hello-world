@@ -1,6 +1,6 @@
 # hello-world
 GitHubにリポジトリを作成する練習
 
-Part 6
+Part 7
 
-ブランチマージテスト
+競合テスト
