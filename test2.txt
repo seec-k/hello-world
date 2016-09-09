@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Part 6
+=======
+Part 4
+>>>>>>> refs/remotes/github/master
 ファイルをaddでインデックスへ追加
