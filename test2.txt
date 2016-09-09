@@ -1,6 +1,8 @@
 <<<<<<< master
 
-Part 11
+Part 13
+
+
 
 HEADとRSETの検証
 =======
