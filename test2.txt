@@ -1,4 +1,4 @@
-<<<<<<< HEAD
-Part 9
->>>>>>> refs/remotes/github/master
-ファイルをaddでインデックスへ追加
+
+Part 10
+
+HEADとRSETの検証
