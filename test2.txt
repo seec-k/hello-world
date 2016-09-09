@@ -1,4 +1,13 @@
+<<<<<<< master
 
 Part 11
 
 HEADとRSETの検証
+=======
+<<<<<<< HEAD
+Part 7
+=======
+Part 4
+>>>>>>> refs/remotes/github/master
+ファイルをaddでインデックスへ追加
+>>>>>>> 39c2c72 TEST9
