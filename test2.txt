@@ -1,4 +1,0 @@
-
-Part 11
-
-HEADとRSETの検証
