@@ -1,6 +1,6 @@
 # hello-world
 GitHubにリポジトリを作成する練習
 
-Part 16
+Part 20
 
 インデックスの検証3
