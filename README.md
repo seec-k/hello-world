@@ -1,5 +1,5 @@
 # hello-world
 GitHubにリポジトリを作成する練習
 
-Part 24
+Part 25.1
 
